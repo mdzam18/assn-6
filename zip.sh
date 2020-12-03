@@ -17,4 +17,4 @@ if [[ -z "$emailid" ]]; then
 fi
 
 # TODO
-zip $emailid account.h account.c action.h action.c bank.h bank.c bankdriver.h bankdriver.c branch.h branch.c debug.h debug.c error.h report.h report.c teller.h teller.c
+zip $emailid account.h account.c action.h action.c bank.h bank.c bankdriver.c branch.h branch.c debug.h debug.c error.h report.h report.c teller.h teller.c
