@@ -35,7 +35,8 @@ google classroom-ზე.
 გახსენით ტერმინალი და გაუშვით `./zip.sh`
 
 #### version 2 manual
-1. დაზიპეთ ფაილები `account.h account.c action.h action.c bank.h bank.c bankdriver.h bankdriver.c branch.h branch.c debug.h debug.c error.h report.h report.c teller.h teller.c`. **აუცილებელია იყოს `.zip` და არა rar**. დაზიპეთ **მხოლოდ** ეს ფაილები (სხვა ფაილებში ცვლილებები არ მიიღება) და არა დირექტორია
+1. დაზიპეთ ფაილები 
+`account.h account.c action.h action.c bank.h bank.c bankdriver.h bankdriver.c branch.h branch.c debug.h debug.c error.h report.h report.c teller.h teller.c`. **აუცილებელია იყოს `.zip` და არა rar**. დაზიპეთ **მხოლოდ** ეს ფაილები (სხვა ფაილებში ცვლილებები არ მიიღება) და არა დირექტორია
 2. დაარქვით ზიპს თქვენი მეილის id
 
 
