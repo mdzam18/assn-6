@@ -28,7 +28,7 @@ test
 valgrind --tool=helgrind ./bankdriver -r -t1 -w4
 ```
 ### შეფასება
-`მოწმდება 7 ტესტზე (t1-დან t7-ის ჩათვლით)  
+`მოწმდება 7 ტესტზე (t1-დან t7-ის ჩათვლით)  `
 
 ### ატვირთვა
 google classroom-ზე.
